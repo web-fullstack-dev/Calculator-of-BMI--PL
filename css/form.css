@@ -1,6 +1,6 @@
 .form__fieldset {
   max-width: 800px;
-  border: 3px solid hsl(0, 87%, 92%);
+  border: 3px solid hsl(210, 14%, 53%);
 }
 
 @media (max-width: 414px) {
@@ -85,7 +85,7 @@
   max-width: 100%;
 }
 
-@media (max-width: 414px){
+@media (max-width: 360px){
   .form__button {
     padding: 15px;
     margin: 10px;
